@@ -1,0 +1,8 @@
+.boxer {
+  display: flex;
+  justify-content: center;
+}
+.mur {
+  display: flex;
+  justify-content: space-between;
+}

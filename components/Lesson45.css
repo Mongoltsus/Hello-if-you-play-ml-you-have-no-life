@@ -1,0 +1,8 @@
+.tovch button {
+  width: 100px;
+  height: 100px;
+}
+.its {
+  display: flex;
+  justify-content: end;
+}
